@@ -1,0 +1,4 @@
+"D:\clion\use\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/mingw8.1.0/install.7z/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -G "CodeBlocks - MinGW Makefiles" E:\clion_project\TSshangji
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/clion_project/TSshangji/cmake-build-debug

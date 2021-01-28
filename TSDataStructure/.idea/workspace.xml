@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TSDataStructure" targetName="TSDataStructure" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0ff0e81-f9ba-4f5b-adea-f111dae5d3ad" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1hU0643om3mqvO4i6L2wxitUbjB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TSshangji" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TSDataStructure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TSDataStructure" TARGET_NAME="TSDataStructure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TSDataStructure" RUN_TARGET_NAME="TSDataStructure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0ff0e81-f9ba-4f5b-adea-f111dae5d3ad" name="Default Changelist" comment="" />
+      <created>1600050184482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600050184482</updated>
+      <workItem from="1600050186603" duration="4088000" />
+      <workItem from="1600062735066" duration="156000" />
+      <workItem from="1600063851085" duration="5257000" />
+      <workItem from="1600183081099" duration="6369000" />
+      <workItem from="1600317376737" duration="5033000" />
+      <workItem from="1600451289220" duration="208000" />
+      <workItem from="1600577349477" duration="406000" />
+      <workItem from="1601303680854" duration="1523000" />
+      <workItem from="1601480341168" duration="1176000" />
+      <workItem from="1601828747252" duration="76000" />
+      <workItem from="1601866462908" duration="651000" />
+      <workItem from="1602232742059" duration="3748000" />
+      <workItem from="1602299220941" duration="7421000" />
+      <workItem from="1602892929263" duration="988000" />
+      <workItem from="1603357862371" duration="5232000" />
+      <workItem from="1603852152553" duration="2476000" />
+      <workItem from="1603857189489" duration="6901000" />
+      <workItem from="1604042609063" duration="5853000" />
+      <workItem from="1604722554902" duration="594000" />
+      <workItem from="1604732903942" duration="4378000" />
+      <workItem from="1605013330665" duration="3053000" />
+      <workItem from="1605340113463" duration="2096000" />
+      <workItem from="1605513873354" duration="496000" />
+      <workItem from="1606135977075" duration="705000" />
+      <workItem from="1606746767092" duration="2199000" />
+      <workItem from="1607759048848" duration="903000" />
+      <workItem from="1608107407933" duration="1365000" />
+      <workItem from="1609676269836" duration="272000" />
+      <workItem from="1609676705737" duration="665000" />
+      <workItem from="1609843177376" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/1-26.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/1-24.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/chapter7_search_tree/build_tree.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/chapter10_priority_queue/PQ_ComlHeap.cpp</url>
+          <line>116</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/chapter2/mergeSort.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/chapter6_graph/bfs.cpp</url>
+          <line>106</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="tmp-&gt;op" language="ObjectiveC" />
+        <watch expression="q-&gt;op" language="ObjectiveC" />
+        <watch expression="level" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
